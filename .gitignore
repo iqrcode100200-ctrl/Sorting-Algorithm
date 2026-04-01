@@ -1,0 +1,6 @@
+#ignoring all compiled java class files
+*.class
+#the compiled files-the bin folder
+/bin/
+#the old folder
+/out/
