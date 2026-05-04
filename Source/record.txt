@@ -1,0 +1,12 @@
+Sorting Algorithm: Quick sort
+Time taken: 1528600ns
+Number of Comparisons: 1
+-------------------------
+SortingAlgorithm: BubbleSort | Size: 3
+Time taken: 690200 ns
+Number of Comparisons: 3
+-------------------------
+SortingAlgorithm: MergeSort | Size: 5
+Time taken: 1897200 ns
+Number of Comparisons: 8
+-------------------------
